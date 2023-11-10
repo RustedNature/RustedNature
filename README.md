@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RustedNature, in RL my name is Nico
-- 👀 I’m interested in Rust, C#, maybe MOJO
+- 👋 Hi, I’m @RustedNature, my name is Nico
+- 👀 I’m interested in Rust, C#
 - 🌱 I’m currently learning Rust
   
 
