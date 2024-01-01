@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RustedNature, my name is Nico
 - 👀 I’m interested in Rust, C#
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning more C#
   
 
 <!---
